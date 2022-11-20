@@ -55,20 +55,32 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6 mt-5">
-                        <div class="card bg-transparent border-0">
-                            <img src="images/tag.png" class="rounded float-start" alt="..." style="width: 150px; height:100px;">
-                            <div class="card-body">
-                                <h5 class="card-title">Card with stretched link</h5>
+                        <center>
+                            <div class="card bg-transparent border-0">
+                                <center>
+                                    <a href="home.php">
+                                        <img src="images/tag.png" class="card-img-center" alt="..." style="width: 150px; height:100px;">
+                                    </a>
+                                </center>
+                                <div class="card-body">
+                                    <h5 class="card-title">Laporan Penjualan</h5>
+                                </div>
                             </div>
-                        </div>
+                        </center>
                     </div>
                     <div class="col-sm-6 mt-5">
-                        <div class="card bg-transparent border-0">
-                            <img src="images/box.png" class="rounded float-end" alt="..." style="width: 150px; height:100px;">
-                            <div class="card-body">
-                                <h5 class="card-title">Card with stretched link</h5>
+                        <center>
+                            <div class="card bg-transparent border-0">
+                                <center>
+                                    <a href="home.php">
+                                        <img src="images/box.png" class="card-img-center" alt="..." style="width: 150px; height:100px;">
+                                    </a>
+                                </center>
+                                <div class="card-body">
+                                    <h5 class="card-title">Laporan Barang Masuk</h5>
+                                </div>
                             </div>
-                        </div>
+                        </center>
                     </div>
                 </div>
                 <div class="row">
@@ -76,10 +88,12 @@
                         <center>
                             <div class="card bg-transparent border-0">
                                 <center>
-                                    <img src="images/line-chart.png" class="card-img-center" alt="..." style="width: 150px; height:100px;">
+                                    <a href="home.php">
+                                        <img src="images/line-chart.png" class="card-img-center" alt="..." style="width: 150px; height:100px;">
+                                    </a>
                                 </center>
                                 <div class="card-body">
-                                    <h5 class="card-title">Card with stretched link</h5>
+                                    <h5 class="card-title">Laporan Laba Rugi</h5>
                                 </div>
                             </div>
                         </center>
